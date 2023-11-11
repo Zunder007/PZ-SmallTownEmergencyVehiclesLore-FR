@@ -6,6 +6,7 @@ IG_UI_FR = {
 	IGUI_VehicleName86econoline_ravencreek = "Franklin Affordarange",
 	IGUI_VehicleName86econoline_jefferson = "Franklin Affordarange",
  	IGUI_VehicleName86econoline_meade = "Franklin Affordarange",
+	IGUI_VehicleName86econoline_greenport = "Franklin Affordarange",
 
 	IGUI_VehicleNameprisonbus_ravencreek = "Bus Pénitentiaire Franklin BE70",
 	IGUI_VehicleNameprisonbus_jefferson = "Bus Pénitentiaire Franklin BE70",
